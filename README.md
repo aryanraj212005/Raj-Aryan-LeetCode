@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1025-divisor-game) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
