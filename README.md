@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0704-binary-search) |
+| [0845-longest-mountain-in-array](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0867-transpose-matrix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0845-longest-mountain-in-array](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1025-divisor-game](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0011-container-with-most-water) |
+| [0845-longest-mountain-in-array](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0867-transpose-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
