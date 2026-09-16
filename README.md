@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0051-n-queens) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0015-3sum) |
 | [0845-longest-mountain-in-array](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## Greedy
 |  |
