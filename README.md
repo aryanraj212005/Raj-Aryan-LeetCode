@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0867-transpose-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1025-divisor-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |
