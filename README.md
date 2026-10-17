@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1025-divisor-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
