@@ -124,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0845-longest-mountain-in-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
