@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0020-valid-parentheses) |
 | [0680-valid-palindrome-ii](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0942-di-string-match) |
+| [3707-equal-score-substrings](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3707-equal-score-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3707-equal-score-substrings](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3707-equal-score-substrings) |
 <!---LeetCode Topics End-->
