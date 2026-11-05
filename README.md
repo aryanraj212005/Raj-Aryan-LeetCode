@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0867-transpose-matrix) |
+| [0942-di-string-match](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0942-di-string-match) |
 | [1539-kth-missing-positive-number](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0015-3sum) |
 | [0680-valid-palindrome-ii](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0845-longest-mountain-in-array](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [0942-di-string-match](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0942-di-string-match) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0942-di-string-match) |
 ## Brainteaser
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0020-valid-parentheses) |
 | [0680-valid-palindrome-ii](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0942-di-string-match](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0942-di-string-match) |
 ## Stack
 |  |
 | ------- |
