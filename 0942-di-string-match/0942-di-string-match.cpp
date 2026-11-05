@@ -14,7 +14,7 @@ public:
                 mini++;
             }
         }
-        ans.push_back(mini);
+        ans.push_back(maxi);
         return ans;
     }
 };
