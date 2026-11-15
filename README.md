@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2239-find-closest-number-to-zero](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3921-score-validator](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3921-score-validator) |
 ## Hash Table
