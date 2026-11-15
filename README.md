@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0942-di-string-match) |
 | [3707-equal-score-substrings](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3707-equal-score-substrings) |
 | [3921-score-validator](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3921-score-validator) |
+| [3931-check-adjacent-digit-differences](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3931-check-adjacent-digit-differences) |
 ## Stack
 |  |
 | ------- |
