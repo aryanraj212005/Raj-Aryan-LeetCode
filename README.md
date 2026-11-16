@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3921-score-validator](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3921-score-validator) |
 ## Enumeration
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0020-valid-parentheses) |
 | [0680-valid-palindrome-ii](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0942-di-string-match) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3707-equal-score-substrings](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3707-equal-score-substrings) |
 | [3921-score-validator](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3931-check-adjacent-digit-differences) |
