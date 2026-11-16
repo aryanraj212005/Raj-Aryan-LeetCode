@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1025-divisor-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0845-longest-mountain-in-array](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1025-divisor-game](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1025-divisor-game) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Binary Search
 |  |
 | ------- |
