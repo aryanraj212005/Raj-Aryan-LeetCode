@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0200-number-of-islands) |
 | [0572-subtree-of-another-tree](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -193,5 +196,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0994-rotting-oranges) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
