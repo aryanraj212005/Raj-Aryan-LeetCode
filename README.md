@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0942-di-string-match](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0942-di-string-match) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3794-reverse-string-prefix](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3707-equal-score-substrings](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3707-equal-score-substrings) |
+| [3794-reverse-string-prefix](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3921-score-validator](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3931-check-adjacent-digit-differences) |
 ## Stack
