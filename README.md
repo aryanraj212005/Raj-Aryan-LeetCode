@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Recursion
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3921-score-validator](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3931-check-adjacent-digit-differences) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Stack
 |  |
 | ------- |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0200-number-of-islands) |
+## Counting
+|  |
+| ------- |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 <!---LeetCode Topics End-->
