@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0942-di-string-match) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3707-equal-score-substrings](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3707-equal-score-substrings) |
 | [3794-reverse-string-prefix](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3794-reverse-string-prefix) |
