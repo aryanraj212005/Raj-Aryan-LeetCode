@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0942-di-string-match) |
 | [0994-rotting-oranges](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0994-rotting-oranges) |
 | [1539-kth-missing-positive-number](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0994-rotting-oranges) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Divide and Conquer
 |  |
 | ------- |
