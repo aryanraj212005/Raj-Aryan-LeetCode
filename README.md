@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1991-find-the-middle-index-in-array](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2239-find-closest-number-to-zero](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/2239-find-closest-number-to-zero) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [3707-equal-score-substrings](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/3707-equal-score-substrings) |
 ## Manacher
 |  |
