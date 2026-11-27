@@ -11,20 +11,18 @@ public:
             n = n/2;
         }
         reverse(s.begin(), s.end());
-        vector<int> ans;
         int even = 0, odd = 0;
         for(int i=0;i<s.length();i++) {
             if(s[i] == '1') {
-                if(i%2 == 0) {
+                int pos = s.length() - 1 - i;
+                if(pos % 2 == 0)
                     even++;
-                }
-                else {
+                else
                     odd++;
-                }
+            
             }
         }
-        ans.push_back(odd);
-        ans.push_back(even);
-        return ans;
+        
+        return {even, odd};
     }
 };
