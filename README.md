@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/0268-missing-number) |
+| [2595-number-of-even-and-odd-bits](https://github.com/aryanraj212005/Raj-Aryan-LeetCode/tree/master/2595-number-of-even-and-odd-bits) |
 ## Sorting
 |  |
 | ------- |
